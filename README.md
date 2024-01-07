@@ -1,0 +1,2 @@
+# Solve.ac-Class
+Algorithm
